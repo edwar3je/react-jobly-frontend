@@ -1,0 +1,37 @@
+.job-card-container {
+    height: 200px;
+    width: 1500px;
+    background-color: beige;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.job-card-details {
+    height: 150px;
+    width: 1300px;
+    background-color: #997950;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.job-card-title {
+    font-size: 25px;
+    color: #222021
+}
+
+.job-card-company {
+    font-size: 15px;
+    color: #222021;
+    font-style: italic
+}
+
+.job-card-other {
+    font-size: 15px;
+    color: #222021
+}

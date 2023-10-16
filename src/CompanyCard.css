@@ -1,0 +1,31 @@
+.company-card-container {
+    height: 200px;
+    width: 1500px;
+    background-color: beige;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.company-card-details {
+    height: 150px;
+    width: 1300px;
+    background-color: #997950;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.company-card-name {
+    font-size: 25px;
+    color: #222021
+}
+
+.company-card-description {
+    font-size: 15px;
+    color: #222021
+}
